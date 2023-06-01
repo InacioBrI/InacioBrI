@@ -22,8 +22,9 @@
   <a href="https://www.linkedin.com/in/in%C3%A1cio-barboza-9a48b0235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+###
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=InacioBrI&bg_color=0D1117&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+###
 
 ### Main skills:
 
@@ -57,7 +58,6 @@
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9E4C98&height=120&section=footer"/>
-
 
 
 
