@@ -1,13 +1,14 @@
 
 
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F5F5DC&height=120&section=header"/>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFAFA&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Inacio+Barboza+de+Lima;I'm+19+years+old;I+am+from+São+Paulo,+SP;I+study+Information+systems+at+FMU;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=InacioBrI&show_icons=true&count_private=true&hide_border=true&title_color=FDF5E6&icon_color=F5F5DC&text_color=FDF5E6&bg_color=0D1117" alt="Inacio Barboza github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InacioBrI&layout=compact&hide_border=true&title_color=FDF5E6&text_color=F5F5DC&bg_color=0D1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=InacioBrI&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=F5F5DC&text_color=c9d1d9&bg_color=0D1117" alt="Inacio Barboza github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InacioBrI&layout=compact&hide_border=true&title_color=00bfbf&text_color=F5F5DC&bg_color=0D1117" />
 </div>
 
 
@@ -21,6 +22,9 @@
   <a href = "mailto:InacioBrwI@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/in%C3%A1cio-barboza-9a48b0235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=InacioBrI&bg_color=0D1117&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ### Main skills:
 
@@ -54,6 +58,9 @@
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F5F5DC&height=120&section=footer"/>
+
+
+
 
 
 
