@@ -1,5 +1,4 @@
 
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9E4C98&height=120&section=header"/>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFAFA&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Inacio+Barboza+de+Lima;I'm+19+years+old;I+am+from+São+Paulo,+SP;I+study+Information+systems+at+FMU;Be+Welcome!+:%29)](https://git.io/typing-svg)
@@ -11,9 +10,6 @@
 </div>
 
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=InacioBrI&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
 
 <div align="center"> 
   <a href="www.instagram.com/inaciobrw" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -25,6 +21,10 @@
 ###
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=InacioBrI&bg_color=0D1117&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ###
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=InacioBrI&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
 ### Main skills:
 
@@ -58,5 +58,4 @@
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9E4C98&height=120&section=footer"/>
-
 
