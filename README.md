@@ -9,7 +9,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InacioBrI&layout=compact&hide_border=true&title_color=FFFFF0&text_color=F5F5DC&bg_color=0D1117" />
 </div>
 
-
+<br>
 
 <div align="center"> 
   <a href="https://www.instagram.com/inb.code/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -18,13 +18,15 @@
   <a href="https://www.linkedin.com/in/in%C3%A1cio-barboza-9a48b0235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-###
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=InacioBrI&bg_color=340079&color=ffffff&line=ffffff&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-###
+<br>
+<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=InacioBrI&bg_color=340079&color=ffffff&line=ffffff&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+<br>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=InacioBrI&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
+
+<br>
 
 ### Main skills:
 
