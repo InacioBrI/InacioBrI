@@ -14,6 +14,8 @@
   <a href="https://www.linkedin.com/in/in%C3%A1cio-barboza-front-end/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+<br>
+
 ![alt text](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 <br>
