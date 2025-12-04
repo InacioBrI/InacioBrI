@@ -36,7 +36,6 @@
 [![Laravel](https://img.shields.io/badge/-Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=FF2D20&labelColor=0D1117)](https://laravel.com/)&nbsp;
 [![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=0D1117)](https://www.mysql.com/)&nbsp;
 [![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=0D1117)](https://nodejs.org)&nbsp;
-[![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=0D1117)](https://www.python.org)&nbsp;
 [![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=0D1117)](https://tailwindcss.com/)&nbsp;
 
 ---
