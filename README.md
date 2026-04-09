@@ -53,8 +53,8 @@
 
 ## 📚 Studying at the moment:
 
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&logoColor=1572B6&labelColor=0D1117)&nbsp;
+[![Laravel](https://img.shields.io/badge/-Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=FF2D20&labelColor=0D1117)](https://laravel.com/)&nbsp;
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6F00FF&height=120&section=footer"/>
